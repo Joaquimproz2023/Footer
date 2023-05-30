@@ -1,0 +1,38 @@
+<!-- Footer MODIFICADO-->
+        <footer class="footer text-center">
+            <div class="container">
+                <div class="row">
+                    <!-- Footer Location-->
+                    <div class="col-lg-4 mb-5 mb-lg-0">
+                        <h4 class="text-donwcase mb-4">Ciclo de Vida de um Software
+                        </h4>
+                        <p class="lead mb-0">
+                            ATENDIMENTO AO CLIENTE
+                            <br />
+                            SAC (Serviço de Atendimento ao Consumidor)
+                        </p>
+                        <p>Whatsapp: 99 99999-9999</p>
+                        <p>E-Mail: DocCock@SAC.com.br</p>
+                        <p>Telefone: 99 99999-9999</p>
+                        <P>CNPJ: 32432-432</P>
+                    </div>
+                    <!-- Footer Social Icons-->
+                    <div class="col-lg-4 mb-5 mb-lg-0">
+                        <h4 class="text-uppercase mb-4">Redes Sociais</h4>
+                        <a class="btn btn-outline-light btn-social mx-1" href="#!"><i class="fab fa-fw fa-facebook-f"></i></a>
+                        <a class="btn btn-outline-light btn-social mx-1" href="#!"><i class="fab fa-fw fa-twitter"></i></a>
+                        <a class="btn btn-outline-light btn-social mx-1" href="#!"><i class="fab fa-fw fa-instagram"></i></a>
+                    </div>
+                    <!-- Footer About Text-->
+                    <div class="col-lg-4">
+                        <h4 class="text-uppercase mb-4">Politicas de Privacidade</h4>
+                        <p class="lead mb-0">
+                            <p><span class="contact-title"><a href="#">Politicas de privacidade</a></span></p>
+                            <p><span class="contact-title"><a href="#"> Fale conosco</a></span></p>
+                            <p><span class="contact-title"><a href="#"> Aviso legal</a></span></p> 
+                            <a href="http://startbootstrap.com">Start Bootstrap</a>
+                        </p>
+                    </div>
+                </div>
+            </div>
+        </footer>
